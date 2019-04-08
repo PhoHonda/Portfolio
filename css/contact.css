@@ -9,7 +9,7 @@ body {
     padding: 0;
     font-family: 'Karla', sans-serif;
     text-align: center;
-    background-color: pink; 
+    background-color: pink;
 }
 
 
@@ -33,7 +33,7 @@ body {
     margin: 0;
     font-family: 'Karla', sans-serif;
     text-align: center;
- 
+
 }
 
 
@@ -148,5 +148,5 @@ form .submit {
 }
 
 form .submit:hover {
-    background-color: white;
+    background-color: orange;
 }
