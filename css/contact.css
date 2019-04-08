@@ -148,5 +148,5 @@ form .submit {
 }
 
 form .submit:hover {
-    background-color: orange;
+    background-color: red;
 }
